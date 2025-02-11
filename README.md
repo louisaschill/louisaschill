@@ -1,7 +1,7 @@
 # Hi there!
 
 I'm a neuroscience PhD candidate at Weill Cornell Medicine based in Brooklyn, NY. <br>
-I try to apply computational neuroscience to better understand and take care of myself and others! 🧠 <br>
+I hope to apply computational neuroscience to better understand and take care of myself and others! 🧠 <br>
 
 ## Education:
 - BSc in neuroscience from University of Toronto (2013-2017)
