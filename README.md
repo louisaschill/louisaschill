@@ -1,6 +1,6 @@
-# Hi there!
+# Hello!
 
-I'm a neuroscience PhD candidate at Weill Cornell Medicine based in Brooklyn, NY. <br>
+I'm Louisa - a neuroscience PhD candidate at Weill Cornell Medicine based in Brooklyn, NY. <br>
 I hope to apply computational neuroscience to better understand and take care of myself and others! 🧠 <br>
 
 ## Education:
