@@ -1,7 +1,7 @@
 # Hello!
 
 I'm Louisa - a neuroscience PhD candidate at Weill Cornell Medicine based in Brooklyn, NY. <br>
-I hope to apply computational neuroscience to better understand and take care of myself and others! 🧠 <br>
+I apply computational neuroscience to help us better understand and take care of ourselves & each other! 🧠 <br>
 
 ## Education:
 - BSc in neuroscience from University of Toronto (2013-2017)
